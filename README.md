@@ -1,1 +1,1 @@
-# UdacityNanodegree_DeepLearning
+# Udacity Nanodegree Deep Learning Certification Course
